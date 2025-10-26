@@ -1,0 +1,1 @@
+import{Aa as o,Oa as a,Pa as n,Xa as p}from"./chunk-FDESYBC4.js";import"./chunk-7CGTOI24.js";var s=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-podcast-player"]],decls:2,vars:0,template:function(e,r){e&1&&(a(0,"p"),p(1,"podcast-player works!"),n())},encapsulation:2})};export{s as PodcastPlayerComponent};
