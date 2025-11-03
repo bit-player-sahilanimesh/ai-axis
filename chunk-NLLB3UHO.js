@@ -1,1 +1,0 @@
-import{Aa as i,Oa as n,Pa as a,Xa as o}from"./chunk-FDESYBC4.js";import"./chunk-7CGTOI24.js";var l=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=i({type:t,selectors:[["app-article-detail"]],decls:2,vars:0,template:function(e,r){e&1&&(n(0,"p"),o(1,"article-detail works!"),a())},encapsulation:2})};export{l as ArticleDetailComponent};

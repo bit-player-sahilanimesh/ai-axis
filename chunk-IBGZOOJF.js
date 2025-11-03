@@ -1,1 +1,0 @@
-import{Aa as o,Oa as s,Pa as n,Xa as a}from"./chunk-FDESYBC4.js";import"./chunk-7CGTOI24.js";var p=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=o({type:e,selectors:[["app-podcast-list"]],decls:2,vars:0,template:function(t,c){t&1&&(s(0,"p"),a(1,"podcast-list works!"),n())},encapsulation:2})};export{p as PodcastListComponent};
