@@ -1,1 +1,0 @@
-import{$a as o,Oa as i,_a as n,hb as s}from"./chunk-DQS2PZEQ.js";import"./chunk-7CGTOI24.js";var a=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=i({type:t,selectors:[["app-article-list"]],decls:2,vars:0,template:function(e,l){e&1&&(n(0,"p"),s(1,"article-list works!"),o())},encapsulation:2})};export{a as ArticleListComponent};

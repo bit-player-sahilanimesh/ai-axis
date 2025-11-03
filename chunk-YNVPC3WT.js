@@ -1,1 +1,0 @@
-import"./chunk-7CGTOI24.js";var t=[{path:"",loadComponent:()=>import("./chunk-FOECBGZJ.js").then(o=>o.CommunityFeedComponent)},{path:"discussions",loadComponent:()=>import("./chunk-27BKKYZK.js").then(o=>o.DiscussionBoardComponent)}];export{t as COMMUNITY_ROUTES};
