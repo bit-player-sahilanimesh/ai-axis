@@ -1,0 +1,1 @@
+import{$a as m,Oa as n,_a as o,hb as i}from"./chunk-DQS2PZEQ.js";import"./chunk-7CGTOI24.js";var c=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=n({type:t,selectors:[["app-community-feed"]],decls:2,vars:0,template:function(e,s){e&1&&(o(0,"p"),i(1,"community-feed works!"),m())},encapsulation:2})};export{c as CommunityFeedComponent};
