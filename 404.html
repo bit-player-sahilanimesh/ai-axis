@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Augmentible | Redirecting...</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="refresh" content="0; url=/" />
+    <style>
+      body {
+        margin: 0;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: #0b0c10;
+        color: #c5c6c7;
+        flex-direction: column;
+        text-align: center;
+      }
+      h1 {
+        font-size: 2rem;
+        color: #66fcf1;
+        margin-bottom: 0.5rem;
+      }
+      p {
+        color: #c5c6c7;
+        font-size: 1rem;
+      }
+      .loader {
+        border: 4px solid #1f2833;
+        border-top: 4px solid #66fcf1;
+        border-radius: 50%;
+        width: 32px;
+        height: 32px;
+        animation: spin 1s linear infinite;
+        margin-top: 20px;
+      }
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+    </style>
+    <script>
+      // Store the attempted route and redirect to root
+      sessionStorage.redirect = location.pathname + location.search + location.hash;
+      location.replace("/");
+    </script>
+  </head>
+  <body>
+    <h1>Redirecting to Augmentible...</h1>
+    <p>Please wait while we load your page.</p>
+    <div class="loader"></div>
+  </body>
+</html>
