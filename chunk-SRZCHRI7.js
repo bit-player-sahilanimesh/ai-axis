@@ -1,1 +1,0 @@
-import"./chunk-7CGTOI24.js";var o=[{path:"",loadComponent:()=>import("./chunk-WT2ZKEIK.js").then(t=>t.ArticleListComponent)},{path:":id",loadComponent:()=>import("./chunk-LA6RAG7T.js").then(t=>t.ArticleDetailComponent)}];export{o as ARTICLES_ROUTES};

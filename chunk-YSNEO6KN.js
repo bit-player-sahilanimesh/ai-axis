@@ -1,1 +1,0 @@
-import"./chunk-7CGTOI24.js";var t=[{path:"",loadComponent:()=>import("./chunk-KJPYXLL4.js").then(o=>o.PodcastListComponent)},{path:"player/:id",loadComponent:()=>import("./chunk-WOVHZ5RD.js").then(o=>o.PodcastPlayerComponent)}];export{t as PODCASTS_ROUTES};
