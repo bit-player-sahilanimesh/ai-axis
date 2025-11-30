@@ -1,4 +1,4 @@
-import{K as u,g as c,n as s}from"./chunk-CWPLPKQY.js";import{a as r,b as l}from"./chunk-7CGTOI24.js";var h=class n{articlesSubject=new c([{id:1,slug:"from-chatgpt-to-clinical-efficiency",title:"From ChatGPT to Clinical Efficiency: The Story Behind Augmentible",excerpt:"How one radiology doctor used ChatGPT to study smarter, save time, and eventually build Augmentible \u2014 a platform helping clinicians leverage AI every day.",content:`
+import{K as u,g as c,n as s}from"./chunk-CWPLPKQY.js";import{a as r,b as l}from"./chunk-7CGTOI24.js";var h=class n{articlesSubject=new c([{id:1,slug:"from-chatgpt-to-clinical-efficiency",title:"From ChatGPT to Clinical Efficiency: The Story Behind Augmentible",excerpt:"How one radiology doctor used ChatGPT to study smarter, save time, and eventually build Augmentible - a platform helping clinicians leverage AI every day.",content:`
     <div contenteditable="true">
 
   <p><strong>From ChatGPT to Clinical Efficiency: The Story Behind Augmentible</strong></p>
@@ -112,14 +112,14 @@ import{K as u,g as c,n as s}from"./chunk-CWPLPKQY.js";import{a as r,b as l}from"
   `,category:"Story",date:new Date(2025,10,4),readTime:12,author:"Yogi",icon:"fas fa-book-open"},{id:2,slug:"what-doctors-need-to-know-about-using-ai-for-portfolio-success",title:"What Doctors Need to Know About Using AI for Portfolio Success",excerpt:"A practical guide for doctors on using AI tools to enhance clinical work, build standout portfolios, save time, and unlock new opportunities with measurable impact.",content:`
 <div>
 <p><strong>What Doctors Need to Know About Using AI for Portfolio Success</strong></p>
-<p>Artificial intelligence is now woven into almost every part of a doctor\u2019s working life \u2014 literature search, teaching preparation, reflection writing, or organising portfolio evidence. Most of us already use it more than we admit. But here\u2019s the real question: <b>Are you using AI in a way that meets good professional practice\u2026 or just hoping you are?</b> Because AI is evolving far faster than the guidance written for us, and that gap matters.</p>
+<p>Artificial intelligence is now woven into almost every part of a doctor\u2019s working life - literature search, teaching preparation, reflection writing, or organising portfolio evidence. Most of us already use it more than we admit. But here\u2019s the real question: <b>Are you using AI in a way that meets good professional practice\u2026 or just hoping you are?</b> Because AI is evolving far faster than the guidance written for us, and that gap matters.</p>
 
 <p>AI has been around for some time, and trainees have always looked for ways to reduce friction in tasks like portfolio completion. So it was inevitable that a UK Royal College would eventually publish guidance on how AI should be used.</p>
 
 <p>The first to do this was the Royal College of General Practitioners (RCGP) in September 2024.</p>
 
 <p><img width="623" height="308" src="assets/images/blogs/blog2image.jpeg" alt="RCGP AI guidance figure"></p>
-<p><i>Figure 1 \u2014 Part of the RCGP statement on the use of artificial intelligence (AI) in postgraduate training, examinations and registration</i></p>
+<p><i>Figure 1 - Part of the RCGP statement on the use of artificial intelligence (AI) in postgraduate training, examinations and registration</i></p>
 
 <p>The theme is clear; <b>AI can support you, but you remain the author, the decision-maker, and the accountable professional behind every submission.</b> This isn\u2019t restrictive. It\u2019s a reminder that transparency and professional integrity still matter, regardless of which tools we use.</p>
 <p>What makes the RCGP\u2019s statement important is that it lands into a UK regulatory environment that is rapidly converging on the same core principles: accountability, explainability, human oversight, and transparency.</p>
@@ -214,7 +214,7 @@ import{K as u,g as c,n as s}from"./chunk-CWPLPKQY.js";import{a as r,b as l}from"
 
 <p>Doctors who use AI well will learn faster, think more clearly, produce higher-quality portfolio evidence, and maintain the professional trust that underpins our training.</p>
 
-<p>Another way to put it \u2014 they\u2019ll be <b>Augmented</b>.</p>
+<p>Another way to put it - they\u2019ll be <b>Augmented</b>.</p>
 
 <p>- Yogi</p>
 
