@@ -1,1 +1,0 @@
-import{Pa as s,bb as n,cb as t,ob as i}from"./chunk-5KSCSQY5.js";import"./chunk-7CGTOI24.js";var a=class e{static \u0275fac=function(o){return new(o||e)};static \u0275cmp=s({type:e,selectors:[["app-discussion-board"]],decls:2,vars:0,template:function(o,r){o&1&&(n(0,"p"),i(1,"discussion-board works!"),t())},encapsulation:2})};export{a as DiscussionBoardComponent};
